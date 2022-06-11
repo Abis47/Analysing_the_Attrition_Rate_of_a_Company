@@ -1,2 +1,3 @@
 # Analysing_the_Attrition_Rate_of_a_Company
-Dataset contains 29 columns and 4410 rows. We have to analyse the data, visualize the data, pre-process the data, make a model, and give suggestion to curb  the attrition rate of a company.
+- I performed an Attrition Analysis of a company. The dataset contains 29 features/columns and 4410 rows. I used pandas, numpy, matplotlib, seaborn, and sklearn libraries to explore data, visualize data, for feature engineering and selection, and make models. Basically, I did Exploratory data analysis, data visualization, data cleaning/filtering, and Model Building. 
+- I made a Logistic regression model, Decision Tree classifier model, AdaBoost model, Random Forest classifier model, SVM model, kNN model, and XGBoost model. Among these, I found SVM model is best fitted for our dataset.
